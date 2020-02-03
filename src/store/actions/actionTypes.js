@@ -1,0 +1,5 @@
+export default {
+  PURCHASE: 'PURCHASE',
+  ADD_PRODUCT: 'ADD_PRODUCT',
+  REMOVE_PRODUCT: 'REMOVE_PRODUCT',  
+}

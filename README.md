@@ -39,7 +39,7 @@ Create the store
   applyMiddleware(thunk)
 ));` 
 
-And the project is now setup with React-Redux and Devtools!
+And the project is now setup with React-Redux and Devtools! For more detailed information about React Devtools check this [documentation](https://github.com/zalmoxisus/redux-devtools-extension#installation).
 
 `npm start`
 
